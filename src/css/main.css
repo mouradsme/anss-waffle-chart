@@ -1,0 +1,6 @@
+.WaffleChartContainer {
+    margin: auto;
+    display: grid;
+    place-content: center;
+    place-items: center;
+}
